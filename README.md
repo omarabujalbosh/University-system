@@ -1,12 +1,84 @@
 # 🎓 JUST University Management System
-## 🎥 Demo Video
+## 📌 Table of Contents
+- [Demo Video](#Demo-Video)
+- [Project Documentation](#Project-Documentation)
+- [Installation / How to Run](#installation--how-to-run)
+- [Project Overview](#project-overview)
+- [Developers](#developers)
+- [Student Features](#student-features)
+  - [Login](#login)
+  - [View Personal Information](#view-personal-information)
+  - [View Registered Courses](#view-registered-courses)
+  - [View Grades](#view-grades)
+  - [Unregister from Course](#unregister-from-course)
+  - [Register for a Course](#register-for-a-course)
+  - [Submit Report or Complaint](#submit-report-or-complaint)
+  - [Edit Profile](#edit-profile)
+  - [View Passed Courses & Academic Summary](#view-passed-courses--academic-summary)
+- [Instructor Features](#instructor-features)
+  - [View My Courses](#view-my-courses)
+  - [View Students in My Courses](#view-students-in-my-courses)
+  - [Submit a Complaint](#submit-a-complaint)
+  - [Edit My Profile](#edit-my-profile)
+- [Admin Role](#admin-role)
+  - [Student Management](#student-management)
+    - [Add Student](#1-add-student)
+    - [Edit Student](#2-edit-student)
+    - [Delete Student](#3-delete-student)
+    - [Search Student](#4-search-student)
+    - [Show All Students](#5-show-all-students)
+    - [Back to Main Menu](#6-back-to-main-menu)
+  - [Course Management](#course-management)
+    - [Add Course](#1-add-course)
+    - [Edit Course](#2-edit-course)
+    - [Delete Course](#3-delete-course)
+    - [Show All Courses](#4-show-all-courses)
+    - [Back to Main Menu](#5-back-to-main-menu)
+  - [Registration Management](#registration-management)
+    - [Register Student in Course](#1-register-student-in-course)
+    - [Unregister Student](#2-unregister-student)
+    - [Show Student's Courses](#3-show-students-courses)
+    - [Show Course's Students](#4-show-courses-students)
+    - [Back to Main Menu](#5-back-to-main-menu)
+  - [Grades Management](#grades-management)
+    - [Add/Edit Grade](#1-addedit-grade)
+    - [Show Student Grades](#2-show-student-grades)
+    - [Back to Main Menu](#3-back-to-main-menu)
+  - [Reports Management](#reports-management)
+    - [Complaints Box](#1-complaints-box)
+    - [Complete Statistics](#2-complete-statistics)
+    - [Skipped Subjects Marks](#3-skipped-subjects-marks)
+    - [Back to Main Menu](#4-back-to-main-menu)
+    - [Conclusion](#Conclusion)
+---
+#### Demo Video
+## 🎥Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/EupT7OqhwVM/0.jpg)](https://youtu.be/EupT7OqhwVM?feature=shared)
 ---
-## 📄 Project Documentation
+#### Project Documentation  
+## 📄 Project Documentation  
+
 
 You can read the full project report on [Google Drive](https://drive.google.com/file/d/1YnTryV2wD49HmWCfngDJXf2G0OO8REt-/view?usp=sharing).
 ---
+##  Installation / How to Run
+*Goal:* Make it easy for anyone to run the project without issues.
+
+### Steps:
+
+1. *Clone the repository*: Download the project to your computer using the link: https://github.com/yanal1234/University-system.git
+
+2. *Enter the project folder*: Open the folder named University-system.
+
+3. *Compile the code*: Use a C++ compiler to compile all .cpp files into an executable. For example, you can use g++ *.cpp -o university_system.
+
+4. *Run the program*: Open the compiled executable (for example, university_system) to start using the system.
+
+💡 *Tip:* Anyone can try the project quickly without needing extra instructions.
+
+---
+#### Project Overview
 ## 📖 Project Overview
 ![alt text](images/image.png)
 The *JUST University Management System* is a comprehensive project developed in C++, designed to simulate a real-world university environment. This system provides advanced solutions for managing all academic and administrative operations, making it an effective tool for students, teachers, and administrators.
@@ -19,7 +91,7 @@ The project's primary goal is to deliver a centralized system that facilitates i
 
 The system was built using *Object-Oriented Programming (OOP), applying advanced concepts like **Inheritance* and *Encapsulation. It also utilizes **data templates* to provide greater flexibility in data management. Furthermore, it relies on *text files* for permanent data storage, ensuring that no data is lost when the program is closed.
 ---
-
+#### Developers
 ## 👨‍💻 Developers
 
 This project was developed by the JUST Logic Team, a group of first-year students at Jordan University of Science and Technology. Despite being in our first academic year, we aimed to demonstrate strong capabilities in:
@@ -48,6 +120,7 @@ This project was developed by the JUST Logic Team, a group of first-year student
   - Email: iljoahhanandeh06@gmail.com
 
 ---
+#### Student Features
 ## 🎓 Student Features
 ![alt text](images/image-1.png)
 The *Student Section* of the system offers a dynamic and interactive interface that empowers students to engage with the platform efficiently. Through a set of automated tools and clearly structured options, students can:
@@ -57,14 +130,15 @@ The *Student Section* of the system offers a dynamic and interactive interface t
 - Perform essential academic tasks with ease  
 
 This section is designed to streamline the student experience by providing intuitive access to grades, schedules, assignments, and communication tools—all in one place.
+####  Login
 ### 🔐 Login
 ![alt text](<images/WhatsApp Image 2025-09-17 at 22.20.54_68368828.jpg>)
 Students can securely log in using their unique credentials. This ensures personalized access and protects academic data.
-
+####  View Personal Information
 ### 🧍 View Personal Information
 ![alt text](images/image-9.png)
 Displays the student’s full name, university ID, major, and academic level. Helps verify and manage profile details.
-
+#### View Registered Courses
 ### 📚 View Registered Courses
 ![alt text](images/image-10.png)
 Lists all courses the student is currently enrolled in, including:
@@ -72,7 +146,7 @@ Lists all courses the student is currently enrolled in, including:
 - Course code
 - Instructor name
 - Credit hours
-
+#### View Grades
 ### 📊 View Grades
 ![alt text](images/image-11.png)
 Allows students to track their performance in each course:
@@ -80,14 +154,14 @@ Allows students to track their performance in each course:
 - Final grade
 - Total grade
 - Grade status (e.g., Passed, Failed)
-
+#### Unregister from Course
 ### 📤Unregister from Course
 ![alt text](images/image-13.png)
 ![alt text](<images/Screenshot 2025-09-17 234953.png>)
 ![alt text](images/image-18.png)
 Students can withdraw from any registered course by entering the corresponding line number of the course in their list.  
 This action updates the course list and reflects the withdrawal immediately within the system.
-
+#### Register for a Course
 ### ➕ Register for a Course
 ![alt text](images/image-17.png)
 ![alt text](images/image-12.png)
@@ -141,7 +215,7 @@ Includes course names, codes, and relevant academic details.
 ![alt text](images/image-21.png)
 Allows instructors to view the list of enrolled students for each course.  
 Provides student names and university IDs for easy reference and management.
-
+#### Submit a Complaint
 ### 📝 Submit a Complaint
 ![alt text](images/image-20.png)
 ![alt text](images/image-22.png)
@@ -150,7 +224,7 @@ The system automatically includes:
 - Instructor role and university ID  
 - Message content  
 This ensures that the administration receives complete context for each submission.
-
+#### Edit My Profile
 ### 🛠 Edit My Profile
 ![alt text](images/image-23.png)
 Instructors can update their personal account information, including:
@@ -159,6 +233,7 @@ Instructors can update their personal account information, including:
 - Password  
 This feature helps maintain accurate records and ensures account security.
 ---
+#### Admin Role  
 ## 🛡 Admin Role  
 
 ### Overview  
@@ -171,7 +246,7 @@ They have full access to academic and administrative operations, ensuring:
 In short, the *Admin* acts as the main control point for all academic entities.  
 
 ---
-
+##### Student Management  
 ### 👨‍🎓 Student Management  
 
 #### Overview  
@@ -212,7 +287,7 @@ From here, the Admin can add, edit, delete, search, or display all students.
 - Return to the Admin Main Menu without making changes.  
 
 ---
-
+#### Course Management 
 ### 📚 Course Management  
 
 #### Overview  
@@ -244,7 +319,7 @@ This module allows the Admin to manage all courses offered by the university (ad
 - Return to the Admin Main Menu.  
 
 ---
-
+#### Registration Management 
 ### 📝 Registration Management  
 
 #### Overview  
@@ -272,7 +347,7 @@ The Admin can register or unregister students, view student’s courses, or see 
 - Return to the Admin Main Menu.  
 
 ---
-
+#### Grades Management  
 ### 🏆 Grades Management  
 
 #### Overview  
@@ -293,7 +368,7 @@ The Admin can add or edit grades and view student grade histories across courses
 - Return to the Admin Main Menu.  
 
 ---
-
+#### Reports Management
 ### 📊 Reports Management  
 
 #### Overview  
@@ -315,4 +390,15 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 - Review marks and performance in missed courses.  
 
 ##### [4] Back to Main Menu  
-- Return to the Admin Main Menu.
+- Return to the Admin Main Menu.  
+---
+#### Conclusion
+## 🔚 Conclusion
+
+The JUST University Management System is a comprehensive project that demonstrates our ability to design, implement, and manage a fully functional university environment using C++.  
+
+This system not only showcases advanced programming concepts like OOP, inheritance, and templates, but also emphasizes real-world usability with features for students, instructors, and administrators.  
+
+We hope this project serves as a valuable reference and inspires further development, including future enhancements such as GUI integration, network support, and additional automation.  
+
+Thank you for exploring our work!
