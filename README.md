@@ -1,5 +1,5 @@
 # 🎓 JUST University Management System
-images/<video controls src="WhatsApp Video 2025-09-18 at 02.53.39_8a0c2511.mp4" title="Title"></video>
+<video controls src="images/WhatsApp Video 2025-09-18 at 02.53.39_8a0c2511.mp4" title="Title"></video>
 ![alt text](images/image.png)
 ---
 ## 📖 Project Overview
@@ -310,4 +310,5 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
