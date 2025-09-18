@@ -1,27 +1,28 @@
 # 🎓 JUST University Management System
-## 🎬 Project Video
-<video controls src="WhatsApp Video 2025-09-18 at 02.53.39_8a0c2511-1.mp4" title="Title"></video>
+## 🎥 Demo Video
 
-## 📄 Project PDF
-[Download PDF Presentation](Blue_futurist_AI_presentation.pdf)
+[![Watch the video](https://img.youtube.com/vi/EupT7OqhwVM/0.jpg)](https://youtu.be/EupT7OqhwVM?feature=shared)
+---
+## 📄 Project Documentation
 
-![alt text](images/image.png)
+You can read the full project report on [Google Drive](https://drive.google.com/file/d/1YnTryV2wD49HmWCfngDJXf2G0OO8REt-/view?usp=sharing).
 ---
 ## 📖 Project Overview
-The **JUST University Management System** is a comprehensive project developed in C++, designed to simulate a real-world university environment. This system provides advanced solutions for managing all academic and administrative operations, making it an effective tool for students, teachers, and administrators.
+![alt text](images/image.png)
+The *JUST University Management System* is a comprehensive project developed in C++, designed to simulate a real-world university environment. This system provides advanced solutions for managing all academic and administrative operations, making it an effective tool for students, teachers, and administrators.
 
 The project's primary goal is to deliver a centralized system that facilitates interaction among all involved parties. It covers essential aspects such as:
-* **User Data Management:** Organizing and storing information for students, teachers, and administrators.
-* **Academic Operations:** Streamlining course registration, withdrawal, and the viewing of academic records.
-* **Grades Management:** A fully integrated system for adding and automatically updating student grades.
-* **Effective Communication:** Providing a mechanism for complaints and reports to ensure continuous communication between users and the administration.
+* *User Data Management:* Organizing and storing information for students, teachers, and administrators.
+* *Academic Operations:* Streamlining course registration, withdrawal, and the viewing of academic records.
+* *Grades Management:* A fully integrated system for adding and automatically updating student grades.
+* *Effective Communication:* Providing a mechanism for complaints and reports to ensure continuous communication between users and the administration.
 
-The system was built using **Object-Oriented Programming (OOP)**, applying advanced concepts like **Inheritance** and **Encapsulation**. It also utilizes **data templates** to provide greater flexibility in data management. Furthermore, it relies on **text files** for permanent data storage, ensuring that no data is lost when the program is closed.
+The system was built using *Object-Oriented Programming (OOP), applying advanced concepts like **Inheritance* and *Encapsulation. It also utilizes **data templates* to provide greater flexibility in data management. Furthermore, it relies on *text files* for permanent data storage, ensuring that no data is lost when the program is closed.
 ---
 
 ## 👨‍💻 Developers
 
-This project was developed by the *JUST Logic Team*, a group of first-year students at Jordan University of Science and Technology. Despite being in our first academic year, we aimed to demonstrate strong capabilities in:
+This project was developed by the JUST Logic Team, a group of first-year students at Jordan University of Science and Technology. Despite being in our first academic year, we aimed to demonstrate strong capabilities in:
 
 - Object-Oriented Programming (OOP)
 - Task distribution and team collaboration
@@ -29,27 +30,27 @@ This project was developed by the *JUST Logic Team*, a group of first-year stude
 
 ### Team Members:
 
-- **Omar Abu Jalboush** – *Computer Science*  
-- **Yanal Abed** – *Computer Science*  
-- **Mohammad Hanandeh** – *Software Engineering*
+- *Omar Abu Jalboush* – Computer Science  
+- *Yanal Abed* – Computer Science  
+- *Mohammad Hanandeh* – Software Engineering
 ### 🌐 Contact & GitHub Profiles
 
-- **Omar Abu Jalboush**  
+- *Omar Abu Jalboush*  
   - GitHub: [omarabujalbosh](https://github.com/omarabujalbosh)  
   - Email: osabujalbosh24@cit.just.edu.jo  
 
-- **Yanal Abed**  
+- *Yanal Abed*  
   - GitHub: [yanal1234](https://github.com/yanal1234)  
   - Email: mahmoodabed24@gmail.com  
 
-- **Mohammad Hanandeh**  
+- *Mohammad Hanandeh*  
   - GitHub: [mohanandeh](https://github.com/mohanandeh)  
   - Email: iljoahhanandeh06@gmail.com
 
 ---
 ## 🎓 Student Features
 ![alt text](images/image-1.png)
-The **Student Section** of the system offers a dynamic and interactive interface that empowers students to engage with the platform efficiently. Through a set of automated tools and clearly structured options, students can:
+The *Student Section* of the system offers a dynamic and interactive interface that empowers students to engage with the platform efficiently. Through a set of automated tools and clearly structured options, students can:
 
 - Monitor their academic progress in real time  
 - Access personal and course-related information  
@@ -105,7 +106,7 @@ This feature facilitates clear and structured communication between students and
 - Display of the sender’s university ID alongside the message  
 
 This ensures that administrators receive complete context when reviewing submissions, making it easier to respond appropriately and efficiently.
-### 🛠️ Edit Profile
+### 🛠 Edit Profile
 ![alt text](images/image-16.png)
 Students can update their personal information through the system.
 This includes modifying details such as:
@@ -130,7 +131,7 @@ This feature helps students track their academic progress and performance over t
 
 ## 👨‍🏫 Instructor Features
 ![alt text](images/image-2.png)
-The **Instructor Section** of the system provides essential tools that help instructors manage their courses and communicate with administration effectively. Each feature is designed to streamline academic responsibilities and maintain accurate profile data.
+The *Instructor Section* of the system provides essential tools that help instructors manage their courses and communicate with administration effectively. Each feature is designed to streamline academic responsibilities and maintain accurate profile data.
 
 ### 📚 View My Courses
 Displays a list of all courses currently taught by the instructor.  
@@ -150,7 +151,7 @@ The system automatically includes:
 - Message content  
 This ensures that the administration receives complete context for each submission.
 
-### 🛠️ Edit My Profile
+### 🛠 Edit My Profile
 ![alt text](images/image-23.png)
 Instructors can update their personal account information, including:
 - Full name  
@@ -158,16 +159,16 @@ Instructors can update their personal account information, including:
 - Password  
 This feature helps maintain accurate records and ensures account security.
 ---
-## 🛡️ Admin Role  
+## 🛡 Admin Role  
 
 ### Overview  
-The **Admin** is the core and central authority of the University Management System.  
+The *Admin* is the core and central authority of the University Management System.  
 They have full access to academic and administrative operations, ensuring:  
 - System integrity and security.  
 - Coordination between students, instructors, and courses.  
 - Monitoring complaints, reports, and statistics.  
 
-In short, the **Admin** acts as the main control point for all academic entities.  
+In short, the *Admin* acts as the main control point for all academic entities.  
 
 ---
 
@@ -314,10 +315,4 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 - Review marks and performance in missed courses.  
 
 ##### [4] Back to Main Menu  
-- Return to the Admin Main Menu.  
-
-
-
-
-
-
+- Return to the Admin Main Menu.
