@@ -1,8 +1,6 @@
 # 🎓 JUST University Management System
-<video width="640" height="360" controls>
-  <source src="images/WhatsApp Video 2025-09-18 at 02.53.39_8a0c2511.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+🎬 [Watch Demo Video](images/WhatsApp_Video_2025-09-18_02.53.39.mp4)
+
 ![alt text](images/image.png)
 ---
 ## 📖 Project Overview
