@@ -1,6 +1,6 @@
 # 🎓 JUST University Management System
 ## 🎬 Project Video
-<video controls width="600" src="images/WhatsApp Video 2025-09-18 at 02.53.39_8a0c2511.mp4" title="Project Video"></video>
+<video controls src="WhatsApp Video 2025-09-18 at 02.53.39_8a0c2511-1.mp4" title="Title"></video>
 
 ## 📄 Project PDF
 [Download PDF Presentation](Blue_futurist_AI_presentation.pdf)
@@ -315,6 +315,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
