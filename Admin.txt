@@ -1,0 +1,2 @@
+117254,mohamad,a;slkfdja;lksjdf,0789278484,mohamad,m,Jordanian,1983,o+,zarqa,2025 9 15,it,it,cs,Assistant professor,1000,11:45-1:45,15,2,Student,127865,hi admin,Teacher,110609,hi admain 
+103110,omar,a;lsdfj;laksfj,0781738389,omar,m,12,2006,28,zarqa,2025 9 17,it,cs,cs,assisrant professor,5000,11:45-12:45,20,2,Student,127865,hi admin,Teacher,110609,hi admain 

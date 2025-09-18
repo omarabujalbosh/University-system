@@ -1,0 +1,8 @@
+118509,saif,aslkjfda;ls,0792346578,saif4,m,4,2006,17,arbd,2025 9 15,it,it,cjbd,93,0,0,level(1),,Active,0,132,1,2001,0,0,0,0,0
+129412,omar,;lsakjfd,09877899,omar,m,a;sldjf,232454,;ajkdlf,ldf,;laksj,it,cs,cs,82.7,0,0,level(1),,active,0,132,1,2001,0,1,2001,25,22,0,80,0,0,0
+129412,omar,;lsakjfd,09877899,omar,m,a;sldjf,232454,;ajkdlf,ldf,;laksj,it,cs,cs,82.7,0,0,level(1),,active,0,132,1,2001,0,0,0,0,0
+103368,omar,l;asdj;alskdfj,0781738389,omar,m,jordan,2006-12-28,o+,zarqa,2025-9-17,it,cs,cs,82.7,0,0,,,acrive,0,132,1,2001,0,1,2001,20,18,0,75,0,0,0
+103368,omar,l;asdj;alskdfj,0781738389,omar,m,jordan,2006-12-28,o+,zarqa,2025-9-17,it,cs,cs,82.7,0,0,,,acrive,0,132,1,2001,0,0,0,0,0
+127865,Omar Samir Nafeh Abu Jalboush,omarabujalboush@gmal.com,0781738389,omar12345,M,Jordanian,2006-12-28,O+,Zarqa,2025-9-17,it,cs,cs,82.7,0,0,level(1),,Active,0,132,0,0,1,2006,0,0,0,0,0,0,0
+103862,mohammad,mohammad@gmal.com,0781478234,mohammad,M,Jordanian,2006-2-15,o+,zarqa,2025-9-17,it,se,se,74.35,0,0,,,Active,0,132,0,0,0,0,0,0
+125191,mohammad,mohammad@gmil.com,0891274898,mohmmad,M,Jordanian,2006-3-19,O+,zarqa,2025-9-17,it,se,se,74.35,0,0,,,Active,0,132,0,0,0,0,0,0
