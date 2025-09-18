@@ -1,5 +1,5 @@
 # 🎓 JUST University Management System
-🎬 [Watch Demo Video](images/WhatsApp_Video_2025-09-18_02.53.39.mp4)
+📄 [Download PDF Presentation](Blue_futurist_AI_presentation.pdf)
 
 ![alt text](images/image.png)
 ---
@@ -311,6 +311,7 @@ The Admin can review complaints, analyze statistics, and track skipped subjects.
 
 ##### [4] Back to Main Menu  
 - Return to the Admin Main Menu.  
+
 
 
 
